@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomaszWasowicz
 - 👀 I’m interested in: becoming a fullstack programmer
-- 🌱 I’m currently learning: PHP
+- 🌱 I’m currently learning: Data Science
 - 💞️ I’m looking to collaborate on anything that will help me grow.
 - 📫 How to reach me : tomasz.wasowicz@gmail.com
 
